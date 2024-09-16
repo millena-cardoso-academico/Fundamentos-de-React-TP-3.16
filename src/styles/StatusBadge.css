@@ -1,0 +1,23 @@
+.badge {
+    display: inline-block;
+    padding: 10px 20px;
+    border-radius: 20px;
+    font-size: 16px;
+    font-weight: bold;
+    color: #fff;
+    text-transform: capitalize;
+    margin: 5px;
+  }
+  
+  .badge-active {
+    background-color: #28a745; /* Verde */
+  }
+  
+  .badge-inactive {
+    background-color: #6c757d; /* Cinza */
+  }
+  
+  .badge-pending {
+    background-color: #ffc107; /* Laranja */
+  }
+  
